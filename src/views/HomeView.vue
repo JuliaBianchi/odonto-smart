@@ -4,7 +4,7 @@
 </script>
 
 <template >
-  <section class="h-screen flex justify-between p-20 bg-[#dee2e6]">
+  <section class="h-screen flex justify-between p-20 bg-[#f8f9fa]">
 
     <container class="flex flex-col self-center gap-10 pl-20">
       <h1 class="text-5xl text-[#03045e] font-bold">Anuncie seu Consultório Odontológico</h1>

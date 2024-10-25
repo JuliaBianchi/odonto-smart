@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-40 bg-white">
+  <section class=" h-screen pt-40 bg-white">
     <h1 class="flex justify-center text-5xl text-[#03045e] font-bold">
       Nossos serviços:
     </h1>
